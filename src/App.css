@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/c8dbbe73426833.5c08f56351b26.png");
+  background-size: cover;
+  background-position: center;
+}
